@@ -17,3 +17,4 @@ Min: Minimum value for the random number generation. Max: Maximum value for the 
 Max_attempts: Maximum attempts allowed to guess the number in each round. Max_rounds: Total number of rounds in the game. 
 Running the Program Compile the Java file (OasisInfobyte1.java). Run the compiled Java program.
 Contributing Feel free to contribute to this project by creating issues, suggesting improvements, or submitting pull requests. Your contributions are welcomed and appreciated!
+video link - https://www.linkedin.com/posts/gorli-lakshmi-sai-amalodbhavi-039ba0236_task1-oasisinfobyte-activity-7143666552901410816-nPEJ?utm_source=share&utm_medium=member_android
